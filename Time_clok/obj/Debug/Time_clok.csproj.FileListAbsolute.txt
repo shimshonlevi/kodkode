@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Time_clok\bin\Debug\Time_clok.exe.config
+C:\Users\User\source\repos\Time_clok\bin\Debug\Time_clok.exe
+C:\Users\User\source\repos\Time_clok\bin\Debug\Time_clok.pdb
+C:\Users\User\source\repos\Time_clok\obj\Debug\Time_clok.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Time_clok\obj\Debug\Time_clok.Form1.resources
+C:\Users\User\source\repos\Time_clok\obj\Debug\Time_clok.Properties.Resources.resources
+C:\Users\User\source\repos\Time_clok\obj\Debug\Time_clok.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Time_clok\obj\Debug\Time_clok.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Time_clok\obj\Debug\Time_clok.exe
+C:\Users\User\source\repos\Time_clok\obj\Debug\Time_clok.pdb
+C:\Users\User\source\repos\Time_clok\obj\Debug\Time_clok.Change_password.resources
+C:\Users\User\source\repos\Time_clok\obj\Debug\Time_clok.formLerning2.resources

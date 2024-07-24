@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\guest\bin\Debug\guest.exe.config
+C:\Users\User\source\repos\guest\bin\Debug\guest.exe
+C:\Users\User\source\repos\guest\bin\Debug\guest.pdb
+C:\Users\User\source\repos\guest\obj\Debug\guest.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\guest\obj\Debug\guest.Form1.resources
+C:\Users\User\source\repos\guest\obj\Debug\guest.Form2.resources
+C:\Users\User\source\repos\guest\obj\Debug\guest.formLerning.resources
+C:\Users\User\source\repos\guest\obj\Debug\guest.Properties.Resources.resources
+C:\Users\User\source\repos\guest\obj\Debug\guest.csproj.GenerateResource.cache
+C:\Users\User\source\repos\guest\obj\Debug\guest.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\guest\obj\Debug\guest.exe
+C:\Users\User\source\repos\guest\obj\Debug\guest.pdb

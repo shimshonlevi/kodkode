@@ -1,0 +1,376 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Time_clok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1795B40F-49E7-4653-8209-3FDEB941FB27}|Time_clok.csproj|C:\\Users\\User\\source\\repos\\Time_clok\\dbconnction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1795B40F-49E7-4653-8209-3FDEB941FB27}|Time_clok.csproj|solutionrelative:dbconnction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FC5E27-BEAD-420E-9FA5-4D1D06019E42}|..\\Shabat\\host.csproj|c:\\users\\user\\source\\repos\\shabat\\dbconnction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1795B40F-49E7-4653-8209-3FDEB941FB27}|Time_clok.csproj|C:\\Users\\User\\source\\repos\\Time_clok\\employeemanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1795B40F-49E7-4653-8209-3FDEB941FB27}|Time_clok.csproj|solutionrelative:employeemanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1795B40F-49E7-4653-8209-3FDEB941FB27}|Time_clok.csproj|C:\\Users\\User\\source\\repos\\Time_clok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1795B40F-49E7-4653-8209-3FDEB941FB27}|Time_clok.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1795B40F-49E7-4653-8209-3FDEB941FB27}|Time_clok.csproj|C:\\Users\\User\\source\\repos\\Time_clok\\formlerning2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1795B40F-49E7-4653-8209-3FDEB941FB27}|Time_clok.csproj|solutionrelative:formlerning2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1795B40F-49E7-4653-8209-3FDEB941FB27}|Time_clok.csproj|C:\\Users\\User\\source\\repos\\Time_clok\\formlerning2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1795B40F-49E7-4653-8209-3FDEB941FB27}|Time_clok.csproj|solutionrelative:formlerning2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1795B40F-49E7-4653-8209-3FDEB941FB27}|Time_clok.csproj|C:\\Users\\User\\source\\repos\\Time_clok\\formlerning2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1795B40F-49E7-4653-8209-3FDEB941FB27}|Time_clok.csproj|solutionrelative:formlerning2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB018916-7355-413E-9E1C-5C3B2B59F570}|..\\guest\\guest.csproj|c:\\users\\user\\source\\repos\\guest\\formlerning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB018916-7355-413E-9E1C-5C3B2B59F570}|..\\guest\\guest.csproj|c:\\users\\user\\source\\repos\\guest\\formlerning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A76A5B48-AD9D-44E3-9F28-DA4CB8B8669C}|..\\lerning2\\lerning2.csproj|c:\\users\\user\\source\\repos\\lerning2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FC5E27-BEAD-420E-9FA5-4D1D06019E42}|..\\Shabat\\host.csproj|c:\\users\\user\\source\\repos\\shabat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FC5E27-BEAD-420E-9FA5-4D1D06019E42}|..\\Shabat\\Shabat.csproj|c:\\users\\user\\source\\repos\\shabat\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB018916-7355-413E-9E1C-5C3B2B59F570}|..\\guest\\guest.csproj|c:\\users\\user\\source\\repos\\guest\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FC5E27-BEAD-420E-9FA5-4D1D06019E42}|..\\Shabat\\Shabat.csproj|c:\\users\\user\\source\\repos\\shabat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25FC5E27-BEAD-420E-9FA5-4D1D06019E42}|..\\Shabat\\host.csproj|c:\\users\\user\\source\\repos\\shabat\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB018916-7355-413E-9E1C-5C3B2B59F570}|..\\guest\\guest.csproj|c:\\users\\user\\source\\repos\\guest\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB018916-7355-413E-9E1C-5C3B2B59F570}|..\\guest\\guest.csproj|c:\\users\\user\\source\\repos\\guest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB018916-7355-413E-9E1C-5C3B2B59F570}|..\\guest\\guest.csproj|c:\\users\\user\\source\\repos\\guest\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1795B40F-49E7-4653-8209-3FDEB941FB27}|Time_clok.csproj|C:\\Users\\User\\source\\repos\\Time_clok\\change_password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1795B40F-49E7-4653-8209-3FDEB941FB27}|Time_clok.csproj|solutionrelative:change_password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1795B40F-49E7-4653-8209-3FDEB941FB27}|Time_clok.csproj|C:\\Users\\User\\source\\repos\\Time_clok\\change_password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1795B40F-49E7-4653-8209-3FDEB941FB27}|Time_clok.csproj|solutionrelative:change_password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1795B40F-49E7-4653-8209-3FDEB941FB27}|Time_clok.csproj|C:\\Users\\User\\source\\repos\\Time_clok\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1795B40F-49E7-4653-8209-3FDEB941FB27}|Time_clok.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1795B40F-49E7-4653-8209-3FDEB941FB27}|Time_clok.csproj|C:\\Users\\User\\source\\repos\\Time_clok\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1795B40F-49E7-4653-8209-3FDEB941FB27}|Time_clok.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1795B40F-49E7-4653-8209-3FDEB941FB27}|Time_clok.csproj|C:\\Users\\User\\source\\repos\\Time_clok\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1795B40F-49E7-4653-8209-3FDEB941FB27}|Time_clok.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBConnction.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Shabat\\DBConnction.cs",
+              "RelativeDocumentMoniker": "..\\Shabat\\DBConnction.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Shabat\\DBConnction.cs",
+              "RelativeToolTip": "..\\Shabat\\DBConnction.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAYwA4AAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T08:43:27.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "formLerning2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Time_clok\\formLerning2.cs",
+              "RelativeDocumentMoniker": "formLerning2.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Time_clok\\formLerning2.cs",
+              "RelativeToolTip": "formLerning2.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAIwBcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T06:38:01.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBConnction.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Time_clok\\DBConnction.cs",
+              "RelativeDocumentMoniker": "DBConnction.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Time_clok\\DBConnction.cs",
+              "RelativeToolTip": "DBConnction.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T08:19:20.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Time_clok\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Time_clok\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T06:57:51.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeManger.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Time_clok\\EmployeeManger.cs",
+              "RelativeDocumentMoniker": "EmployeeManger.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Time_clok\\EmployeeManger.cs",
+              "RelativeToolTip": "EmployeeManger.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAYwA4AAABOCAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:20:27.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "formLerning2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Time_clok\\formLerning2.cs",
+              "RelativeDocumentMoniker": "formLerning2.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Time_clok\\formLerning2.cs [Design]",
+              "RelativeToolTip": "formLerning2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T06:37:29.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "formLerning2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Time_clok\\formLerning2.Designer.cs",
+              "RelativeDocumentMoniker": "formLerning2.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Time_clok\\formLerning2.Designer.cs",
+              "RelativeToolTip": "formLerning2.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T07:05:04.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "formLerning.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\guest\\formLerning.cs",
+              "RelativeDocumentMoniker": "..\\guest\\formLerning.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\guest\\formLerning.cs",
+              "RelativeToolTip": "..\\guest\\formLerning.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T06:34:01.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "formLerning.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\guest\\formLerning.cs",
+              "RelativeDocumentMoniker": "..\\guest\\formLerning.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\guest\\formLerning.cs [Design]",
+              "RelativeToolTip": "..\\guest\\formLerning.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T06:32:22.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\lerning2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\lerning2\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\lerning2\\Program.cs",
+              "RelativeToolTip": "..\\lerning2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T06:23:13.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Shabat\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Shabat\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Shabat\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\Shabat\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:39:24.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Shabat\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Shabat\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Shabat\\Form1.cs",
+              "RelativeToolTip": "..\\Shabat\\Form1.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAswEIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:48:16.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Shabat\\Form2.cs",
+              "RelativeDocumentMoniker": "..\\Shabat\\Form2.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Shabat\\Form2.cs [Design]",
+              "RelativeToolTip": "..\\Shabat\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:51:42.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\guest\\Form2.cs",
+              "RelativeDocumentMoniker": "..\\guest\\Form2.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\guest\\Form2.cs [Design]",
+              "RelativeToolTip": "..\\guest\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:56:28.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Shabat\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\Shabat\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Shabat\\Form1.Designer.cs",
+              "RelativeToolTip": "..\\Shabat\\Form1.Designer.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAiwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T14:22:41.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\guest\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "..\\guest\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\guest\\Form2.Designer.cs",
+              "RelativeToolTip": "..\\guest\\Form2.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:57:46.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\guest\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\guest\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\guest\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\guest\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:54:10.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\guest\\Form2.cs",
+              "RelativeDocumentMoniker": "..\\guest\\Form2.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\guest\\Form2.cs",
+              "RelativeToolTip": "..\\guest\\Form2.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAiwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T13:30:49.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Change_password.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Time_clok\\Change_password.cs",
+              "RelativeDocumentMoniker": "Change_password.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Time_clok\\Change_password.cs [Design]",
+              "RelativeToolTip": "Change_password.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:33:11.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Change_password.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Time_clok\\Change_password.cs",
+              "RelativeDocumentMoniker": "Change_password.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Time_clok\\Change_password.cs",
+              "RelativeToolTip": "Change_password.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:44:06.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Time_clok\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Time_clok\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T13:35:22.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Time_clok\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Time_clok\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAkwDEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:09:47.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Time_clok\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Time_clok\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:22:03.757Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

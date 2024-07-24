@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\lerning\bin\Debug\lerning.exe.config
+C:\Users\User\source\repos\lerning\bin\Debug\lerning.exe
+C:\Users\User\source\repos\lerning\bin\Debug\lerning.pdb
+C:\Users\User\source\repos\lerning\obj\Debug\lerning.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\lerning\obj\Debug\lerning.Form1.resources
+C:\Users\User\source\repos\lerning\obj\Debug\lerning.Properties.Resources.resources
+C:\Users\User\source\repos\lerning\obj\Debug\lerning.csproj.GenerateResource.cache
+C:\Users\User\source\repos\lerning\obj\Debug\lerning.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\lerning\obj\Debug\lerning.exe
+C:\Users\User\source\repos\lerning\obj\Debug\lerning.pdb

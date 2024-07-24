@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\college\bin\Debug\college.exe.config
+C:\Users\User\source\repos\college\bin\Debug\college.exe
+C:\Users\User\source\repos\college\bin\Debug\college.pdb
+C:\Users\User\source\repos\college\obj\Debug\college.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\college\obj\Debug\college.Form1college.resources
+C:\Users\User\source\repos\college\obj\Debug\college.Form2colleg.resources
+C:\Users\User\source\repos\college\obj\Debug\college.Properties.Resources.resources
+C:\Users\User\source\repos\college\obj\Debug\college.csproj.GenerateResource.cache
+C:\Users\User\source\repos\college\obj\Debug\college.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\college\obj\Debug\college.exe
+C:\Users\User\source\repos\college\obj\Debug\college.pdb
+C:\Users\User\source\repos\college\obj\Debug\college.payment.resources
